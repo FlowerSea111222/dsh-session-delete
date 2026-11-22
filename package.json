@@ -1,6 +1,6 @@
 {
   "name": "@local/dsh-session-delete",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "description": "Delete a stored Session permanently instead of only archiving it.",
   "license": "MIT",
@@ -35,7 +35,8 @@
     "docs",
     "icon.svg",
     "README.md",
-    "LICENSE"
+    "LICENSE",
+    "CHANGELOG.md"
   ],
   "dsh": {
     "manifestVersion": 1,
