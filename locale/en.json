@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Delete Session",
+    "description": "Adds \"Delete session…\" to the sidebar Session row menu. Confirming erases that session's stored record from disk, which archiving never does. Refused while the session is still running or open in a window, and irreversible once done.",
+    "detail": "docs/DETAIL.md"
+  }
+}
